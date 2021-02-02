@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+.divs {
+    border: 3px solid black;
+    margin: 100px auto;
+}
+#bigDiv {
+    width: 500px;
+    height: 500px;
+}
+#middleDiv {
+    width: 300px;
+    height: 300px;
+}
+#littleDiv {
+    width: 100px;
+    height: 100px;
+}
+/* I spent too much time cleaning this up */
+
+table {
+    margin: auto;
+}
+td {
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    /* margin: auto; */
+}
